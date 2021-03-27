@@ -1,0 +1,30 @@
+{
+	"name": "neon-star",
+	"version": "1.0.0",
+	"publisher": "Starhound",
+	"description": "Neon code and black UI",
+	"repository": "https://github.com/starhound/neon-star",
+	"engines": {
+		"vscode": "^1.18.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "NeonStar",
+				"uiTheme": "vs-dark",
+				"path": "./themes/NeonStar.json"
+			}
+		]
+	},
+	"keywords": [
+		"black",
+		"neon",
+		"dark"
+	],
+	"devDependencies": {
+		"vsce": "^1.87.0"
+	}
+}
