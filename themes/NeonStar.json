@@ -404,7 +404,7 @@
         "scope": "comment.line.double-slash,comment.block.documentation",
         "settings": {
             "fontStyle": "normal",
-            "foreground": "#6a8d94"
+            "foreground": "#5DFF33"
         }
         },
         {
